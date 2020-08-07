@@ -1,2 +1,2 @@
 # goTypes
-go type system desc
+decription types system in go 
